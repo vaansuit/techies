@@ -21,3 +21,8 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone git@github.com:vaansuit/techies.git
+
+If you use Ubuntu and firefox, in the folder that you cloned the project, run:
+
+```bash
+firefox index.html
